@@ -14,5 +14,5 @@
 
 ## 后端技术学习路线图
 
-![](https://cdn.jsdelivr.net/gh/imcoderlemon/CodeClass/后端技术学习路线By-公众号@后端技术学堂.png)
+![](https://github.com/imcoderlemon/CodeClass/raw/main/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BFBy-%E5%85%AC%E4%BC%97%E5%8F%B7%40%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF%E5%AD%A6%E5%A0%82.png)
 
